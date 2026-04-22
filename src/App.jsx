@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Navbar from './navbar'
 import Course from './Course'
+import Footer from './Footer'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <>
     <Navbar/>
     <Course/>
+    <Footer/>
     </>
   );
 }
