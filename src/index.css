@@ -1,8 +1,16 @@
 .book{
     background-color: lightcyan;
-    max-width: 600px;
+    max-width: 300px;
     text-align: center;
-    margin:auto;
-    
+    padding:20px;
+    border-radius:20px;
+    font-family: 'Poppins', sans-serif;
+    display:inline-block;
+    margin:20px;
+
    
+}
+.card-img{
+    width:200px;
+    padding:3px;
 }
